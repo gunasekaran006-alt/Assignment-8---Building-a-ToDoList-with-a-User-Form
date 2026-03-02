@@ -1,0 +1,16 @@
+ body {
+  background: linear-gradient(to right, #74ebd5, #9face6);
+  min-height: 100vh;
+}
+
+.card {
+  max-width: 500px;
+  margin: auto;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: gray;
+} 
+
+
